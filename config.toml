@@ -1,0 +1,5 @@
+theme = "tokyonight_storm_edit"
+
+[keys.select]
+v = "expand_selection"
+V = "shrink_selection"
