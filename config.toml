@@ -1,4 +1,4 @@
-theme = "varua"
+theme = "tokyonight_storm_edit"
 
 [keys.select]
 v = "expand_selection"
