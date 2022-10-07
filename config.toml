@@ -1,4 +1,4 @@
-theme = "tokyonight_storm_edit"
+theme = "noctis"
 
 [keys.select]
 v = "expand_selection"
